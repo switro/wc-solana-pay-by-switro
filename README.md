@@ -1,11 +1,11 @@
 # WC Solana Pay By Switro
 
 **Contributors:** switro  
-**Tags:** solana, crypto payments, woocommerce, wallet, usdc 
+**Tags:** solana, crypto payments, woocommerce, wallet, usdc  
 **Requires at least:** 6.0  
 **Tested up to:** 6.8  
 **Requires PHP:** 7.4  
-**Requires Plugins:** woocommerce
+**Requires Plugins:** woocommerce  
 **Stable tag:** 1.0.0  
 **License:** GPLv2 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
@@ -43,13 +43,13 @@ With seamless integration, low fees, and built-in security, Switro makes it simp
 ## Configuration Steps
 
 1. **Get your API Key**  
-   - Login to your Switro account → **API Settings** → **Copy API Key**.  
+   - Login to your [Switro account](https://www.switro.com/auth/login) → **API Settings** → **Copy API Key**.  
 2. **Configure in WordPress**  
    - Go to **WooCommerce → Settings → Payments → Switro Solana Wallet**.  
    - Paste the copied API Key into the API Key field and save changes.  
 3. **Set up Webhooks**  
    - From the WordPress admin → **Payments → Switro Solana Wallet**, copy the **Webhook URL** provided.  
-   - Go back to **Switro Dashboard → API Settings** → paste the Webhook URL → **Save/Update Webhook**.  
+   - Go back to **Switro Dashboard → API Settings** → paste the Webhook URL → **Save Webhook**.  
 4. Your store is now ready to accept Solana payments!
 
 ---
@@ -77,7 +77,14 @@ Yes, you can enable optional automatic conversion to USDC to reduce volatility r
 ## References
 
 - **Get Started with Switro:** [https://www.switro.com/auth/register](https://www.switro.com/auth/register)  
-- **Switro API & Developer Docs:** [https://switro.com/docs](https://switro.com/docs)
+- **Switro API & Developer Docs:** [https://switro.com/docs/get-started](https://switro.com/docs/get-started)
+
+---
+
+## Connect with us
+- **X:** [https://x.com/switropay](https://x.com/switropay)  
+- **Youtube:** [https://www.youtube.com/@switropay](https://www.youtube.com/@switropay)
+- **Discord:** [https://discord.com/invite/switro](https://discord.com/invite/switro)
 
 ---
 

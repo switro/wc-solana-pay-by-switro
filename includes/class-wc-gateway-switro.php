@@ -177,7 +177,7 @@ class WC_Gateway_Switro extends WC_Payment_Gateway
             $payload['amount_tax'] = $amount_tax;
         }
 
-        $response = wp_remote_post('https://switro.com/api/v1/checkout', [
+        $response = wp_remote_post('https://www.switro.com/api/v1/checkout', [
             'method'  => 'POST',
             'headers' => [
                 'Content-Type'  => 'application/json',
