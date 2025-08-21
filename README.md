@@ -67,24 +67,10 @@ Yes, you can enable optional automatic conversion to USDC to reduce volatility r
 
 ---
 
-## Screenshots
-
-1. **Checkout page with Solana payment option**  
-2. **Payment settings in WooCommerce admin**
-
----
-
-## References
-
-- **Get Started with Switro:** [https://www.switro.com/auth/register](https://www.switro.com/auth/register)  
-- **Switro API & Developer Docs:** [https://switro.com/docs/get-started](https://switro.com/docs/get-started)
-
----
-
 ## Connect with us
 - **X:** [https://x.com/switropay](https://x.com/switropay)  
 - **Youtube:** [https://www.youtube.com/@switropay](https://www.youtube.com/@switropay)
-- **Discord:** [https://discord.com/invite/switro](https://discord.com/invite/switro)
+- **Discord:** [https://discord.com/invite/yRwgHWS8zG](https://discord.com/invite/yRwgHWS8zG)
 
 ---
 
